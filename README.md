@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a developer with a strong foundation in both f
 - **C** - Deep understanding of procedural programming.
 - **C++** - Strong OOP concepts and competitive programming.
 - **JavaScript** - Core language of the web, proficient in modern ES6+ syntax.
+- **TypeScript** - A typed superset of JavaScript for building robust applications.
 
 ### 🌐 Front-End Development
 - **HTML5** - Semantic markup and web accessibility.
